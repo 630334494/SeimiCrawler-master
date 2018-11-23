@@ -6,14 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SeimiCrawler (1)" />
+        <module name="SeimiCrawler (1) (cn.wanghaomiao)" />
+        <module name="spring-boot-seimicrawler" />
         <module name="spring-boot-wjqPaCong" />
+        <module name="springbootwjqPaCongdemo" />
+        <module name="standalone-semicrawler-example" />
         <module name="standalone-wjqPaCong-example" />
+        <module name="standalonewjqPaCongdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SeimiCrawler" target="1.5" />
+      <module name="SeimiCrawler (1)" target="1.8" />
+      <module name="SeimiCrawler (1) (cn.wanghaomiao)" target="1.8" />
+      <module name="spring-boot-seimicrawler" target="8" />
       <module name="spring-boot-wjqPaCong" target="8" />
+      <module name="springbootwjqPaCongdemo" target="8" />
+      <module name="springbootwjqPaCongdemo (1)" target="1.5" />
+      <module name="springbootwjqPaCongdemo (1) (com.wjq.pachong)" target="1.5" />
+      <module name="standalone-semicrawler-example" target="1.8" />
       <module name="standalone-wjqPaCong-example" target="1.8" />
+      <module name="standalonewjqPaCongdemo" target="1.8" />
+      <module name="standalonewjqPaCongdemo (1) (com.wjq.pachong)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
